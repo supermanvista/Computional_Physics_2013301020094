@@ -1,6 +1,7 @@
 # Computional_Physics_2013301020094
 ![Photo](https://github.com/supermanvista/Computional_Physics_2013301020094/blob/master/gamersky_008origin_015_20163191959B5C.jpg)
 Computional_Physics
+#夏海峰  
 ##计算物理课程
 ## 第一次作业
 - 安装linux系统
