@@ -33,10 +33,21 @@ Computional_Physics
 - 使用matplotlib完成图片的各种细节，认真写报告
 - [第四次作业](Computional_Physics_2013301020094/计算物理第四次作业.md)
 
+
+## 第五次作业
+- 继续用第一章的练习题熟悉python编程，并熟练撰写markdown文档
+
 ##第六次作业
 - 作业L1 2.9题
 - 作业L2 2.10题强化版（引入风阻）————“辅助精确打击系统”
 - 作业L3 发展“超级辅助精确打击系统”（考虑炮弹初始发射的时候发射角度误差1%，速度有5%的误差，风阻误差10%，可以考虑引入Coriolis force等，以炮弹落点与打击目标距离差平方均值最小为优胜）
 [第六次作业](https://www.zybuluo.com/mdeditor#350370)
-![Photo2](https://github.com/supermanvista/Computional_Physics_2013301020094/blob/master/gamersky_025origin_049_2016312197CA5.jpg)
 
+## 第七次作业
+- 作业L1 2.19题
+> 建议：可以使用argparse和ConfigParser两个包设置程序初始参数
+
+- 作业L2 使用vpython可视化炮弹发射或者棒球运动
+[第七次作业]()
+
+![Photo2](https://github.com/supermanvista/Computional_Physics_2013301020094/blob/master/gamersky_025origin_049_2016312197CA5.jpg)
