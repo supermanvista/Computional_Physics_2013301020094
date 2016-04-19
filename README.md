@@ -27,7 +27,7 @@ Computional_Physics
 - 作业L2 在屏幕上用字符拼出任意次序的姓名
 - 作业L3 在80*80点阵上用字符拼出你想画的东西，希望脑洞大开！（比如字符，火柴人，实现移动、旋转等等）
 [计算物理第三次作业](https://github.com/supermanvista/Computional_Physics_2013301020094/blob/master/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%BD%9C%E4%B8%9A.md)
-  
+![Photo3](https://github.com/supermanvista/Computional_Physics_2013301020094/blob/master/Photos/image.jpeg)
 ## 第四次作业
 - 完成第一章的练习题（自己任选一题）
 - 使用matplotlib完成图片的各种细节，认真写报告
