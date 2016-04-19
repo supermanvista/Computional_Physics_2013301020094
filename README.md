@@ -33,7 +33,7 @@ Computional_Physics
 - 使用matplotlib完成图片的各种细节，认真写报告
 - [第四次作业](Computional_Physics_2013301020094/计算物理第四次作业.md)
 ![Photo2](https://github.com/supermanvista/Computional_Physics_2013301020094/blob/master/gamersky_025origin_049_2016312197CA5.jpg)
-＃第六次作业
+
 ## 第六次作业
 - 作业L1 2.9题
 - 作业L2 2.10题强化版（引入风阻）————“辅助精确打击系统”
