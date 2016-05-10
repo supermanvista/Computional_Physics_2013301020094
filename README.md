@@ -53,3 +53,19 @@ Computional_Physics
 - [第七次作业](https://www.zybuluo.com/mdeditor#334298)
 
 ![Photo2](https://github.com/supermanvista/Computional_Physics_2013301020094/blob/master/gamersky_025origin_049_2016312197CA5.jpg)
+
+
+## 第八次作业
+- 作业3.7 3.8
+
+## 第九次作业
+- 作业L1 3.12
+- 作业L2 3.16 3.21
+
+## 第十次作业
+- 作业L1 3.26
+- 作业L2 3.29 3.31
+- 作业L3 将以上题目使用vpython进行一个3D展示
+
+## 第十一次作业
+- 作业 4.7 4.9 4.11
