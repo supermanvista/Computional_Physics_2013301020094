@@ -52,7 +52,6 @@ Computional_Physics
 - 作业L2 使用vpython可视化炮弹发射或者棒球运动
 - [第七次作业](https://www.zybuluo.com/mdeditor#334298)
 
-![Photo2](https://github.com/supermanvista/Computional_Physics_2013301020094/blob/master/gamersky_025origin_049_2016312197CA5.jpg)
 
 
 ## 第八次作业
@@ -69,3 +68,8 @@ Computional_Physics
 
 ## 第十一次作业
 - 作业 4.7 4.9 4.11
+
+![Photo2](https://github.com/supermanvista/Computional_Physics_2013301020094/blob/master/gamersky_025origin_049_2016312197CA5.jpg)
+
+
+
