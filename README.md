@@ -56,7 +56,7 @@ Computional_Physics
 
 ## 第八次作业
 - 作业3.7 3.8
-
+-[第八次作业](https://www.zybuluo.com/SuperMan/note/334290)
 ## 第九次作业
 - 作业L1 3.12
 - 作业L2 3.16 3.21
