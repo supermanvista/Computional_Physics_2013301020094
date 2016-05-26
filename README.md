@@ -61,6 +61,7 @@ Computional_Physics
 ## 第九次作业
 - 作业L1 3.12
 - 作业L2 3.16 3.21
+- [第九次作业](https://www.zybuluo.com/SuperMan/note/388617)
 
 ## 第十次作业
 - 作业L1 3.26
