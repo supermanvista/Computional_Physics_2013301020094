@@ -67,6 +67,7 @@ Computional_Physics
 - 作业L1 3.26
 - 作业L2 3.29 3.31
 - 作业L3 将以上题目使用vpython进行一个3D展示
+- [第十次作业](https://www.zybuluo.com/SuperMan/note/391095)
 
 ## 第十一次作业
 - 作业 4.7 4.9 4.11
