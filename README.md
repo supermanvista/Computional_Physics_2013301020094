@@ -50,7 +50,7 @@ Computional_Physics
 > 建议：可以使用argparse和ConfigParser两个包设置程序初始参数
 
 - 作业L2 使用vpython可视化炮弹发射或者棒球运动
-- [第七次作业](https://www.zybuluo.com/mdeditor#334298)
+- [第七次作业](https://www.zybuluo.com/SuperMan/note/334298)
 
 
 
