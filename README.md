@@ -31,7 +31,6 @@ Computional_Physics
 ## 第四次作业
 - 完成第一章的练习题（自己任选一题）
 - 使用matplotlib完成图片的各种细节，认真写报告
-- [第四次作业](Computional_Physics_2013301020094/计算物理第四次作业.md)
 - [第四次作业](https://www.zybuluo.com/SuperMan/note/334290)
 
 
