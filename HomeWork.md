@@ -1,13 +1,13 @@
 #计算物理作业
-- [第三次作业]（）
-- [第四次作业]（）
-- [第五次作业]()
-- [第六次作业]()
-- [第七次作业]()
-- [第八次作业]()
-- [第九次作业]()
-- [第十次作业]()
+- [第三次作业](https://github.com/supermanvista/Computional_Physics_2013301020094/blob/master/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%BD%9C%E4%B8%9A.md)
+- [第四次作业](https://www.zybuluo.com/SuperMan/note/334290)
+- [第五次作业](https://www.zybuluo.com/SuperMan/note/350597)
+- [第六次作业](https://www.zybuluo.com/SuperMan/note/350370)
+- [第七次作业](https://www.zybuluo.com/SuperMan/note/334298)
+- [第八次作业](https://www.zybuluo.com/SuperMan/note/334280)
+- [第九次作业](https://www.zybuluo.com/SuperMan/note/388617)
+- [第十次作业](https://www.zybuluo.com/SuperMan/note/391095)
 - [第十一次作业]()
 - [第十二次作业]()
-- [第十三次作业]()
+- [第十三次作业](https://www.zybuluo.com/SuperMan/note/394982)
 - [第十四次作业]()
