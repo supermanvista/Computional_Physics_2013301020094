@@ -77,10 +77,11 @@ Computional_Physics
 
 ## 第十三次作业
 - 作业 5.3 5.7 5.16
+- [第十三次作业](https://www.zybuluo.com/SuperMan/note/394982)
 
 ## 第十四次作业
 - 作业 6.6 6.12 6.16
-- [第十三次作业](https://www.zybuluo.com/SuperMan/note/394982)
+
 
 ![Photo2](https://github.com/supermanvista/Computional_Physics_2013301020094/blob/master/gamersky_025origin_049_2016312197CA5.jpg)
 
