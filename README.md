@@ -81,6 +81,7 @@ Computional_Physics
 
 ## 第十四次作业
 - 作业 6.6 6.12 6.16
+- [第十四次作业](https://www.zybuluo.com/SuperMan/note/403435)
 
 
 ![Photo2](https://github.com/supermanvista/Computional_Physics_2013301020094/blob/master/gamersky_025origin_049_2016312197CA5.jpg)
