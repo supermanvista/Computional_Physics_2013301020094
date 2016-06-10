@@ -3,6 +3,7 @@
 Computional_Physics
 #夏海峰  
 ##计算物理课程
+##[全部作业](https://github.com/supermanvista/Computional_Physics_2013301020094/blob/master/HomeWork.md)
 ## 第一次作业
 - 安装linux系统
 - * 已用虚拟机安装了Ubuntu14.04LTS
