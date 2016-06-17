@@ -88,7 +88,12 @@ Computional_Physics
 
 
 
-##期末论文()
+##期末论文
+-[期末论文](https://www.zybuluo.com/SuperMan/note/403637)
+
+## 备份
+- [全部论文PDF(密码：wpcr）](http://pan.baidu.com/s/1kVgy3MR)
+（PDF文档排版、和图片可能会会出现些许问题，还是以在线文档为优先选择）
 
 
 ![Photo2](https://github.com/supermanvista/Computional_Physics_2013301020094/blob/master/gamersky_025origin_049_2016312197CA5.jpg)
