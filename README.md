@@ -89,7 +89,7 @@ Computional_Physics
 
 
 ##期末论文
--[期末论文](https://www.zybuluo.com/SuperMan/note/403637)
+- [期末论文](https://www.zybuluo.com/SuperMan/note/403637)
 
 ## 备份
 - [全部论文PDF(密码：wpcr）](http://pan.baidu.com/s/1kVgy3MR)
