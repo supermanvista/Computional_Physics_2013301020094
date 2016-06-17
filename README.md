@@ -76,11 +76,11 @@ Computional_Physics
 
 ## 第十二次作业
 - 作业 4.16 4.18 4.20
-- [十二次作业](https://www.zybuluo.com/SuperMan/note/403784)
+- [十二次作业] (https://www.zybuluo.com/SuperMan/note/403784)
 
 ## 第十三次作业
 - 作业 5.3 5.7 5.16
-- [第十三次作业](https://www.zybuluo.com/SuperMan/note/394982)
+- [第十三次作业] (https://www.zybuluo.com/SuperMan/note/394982)
 
 ## 第十四次作业
 - 作业 6.6 6.12 6.16
